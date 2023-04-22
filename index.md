@@ -67,9 +67,8 @@ Iten,Kenya | 2020
 
 ### Projects
 
-Describe the most significant projects you have worked on, including the technologies you used, the challenges you faced, and the outcomes you achieved. Provide links to the projects on GitHub, GitLab, or other code hosting platforms. For each project, include an image or screenshot that showcases your work, along with a brief description and a link to the project.
 
-#### Project Name 1
+#### Blood Bank
 
 ![Blood Bank](/assets/blood-bank.png)
 
@@ -77,7 +76,7 @@ This is a mobile application that allows people to sign up as blood donors and a
 
 [View project](https://github.com/kip-too/blood_bank)
 
-#### Project Name 2
+#### Baraka Restaurant
 
 ![Baraka Restaurant](/assets/baraka.png)
 
@@ -85,7 +84,7 @@ This is a single restaurant application for Baraka Restaurant. The application e
 
 [View project](https://github.com/kip-too/Baraka-Restaurant)
 
-#### Project Name 3
+#### M-Soko
 
 ![m-soko](/assets/m-soko.png)
 
